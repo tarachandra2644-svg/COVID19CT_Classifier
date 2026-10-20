@@ -55,7 +55,7 @@ The deployed application accepts CT image uploads and displays the predicted cla
 
 **[Try the Classifier](https://covid19ctclassifier.streamlit.app/)**
 
-*Add application screenshot here.*
+<img width="780" height="433" alt="image" src="https://github.com/user-attachments/assets/44c59717-6533-43e3-a216-3052b346a1cc" />
 
 ## Limitations
 
