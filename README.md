@@ -12,7 +12,7 @@ The model was fine-tuned on 19,685 CT slices, achieving **99.59%** test accuracy
 
 ## Tech Stack
 
-Python | PyTorch | Torchvision | MobileNetV3-Large | Scikit-learn | Streamlit | Google Colab
+Python, PyTorch, Torchvision, MobileNetV3-Large, Scikit-learn, Streamlit, Google Colab
 
 ## Dataset
 
